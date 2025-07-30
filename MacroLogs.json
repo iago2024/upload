@@ -1,0 +1,704 @@
+{
+    "Logs": [
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250730T124748"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250730T124740"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250730T121200"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250730T114731"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250729T174827"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T170227"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163613"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163532"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163352"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163320"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163152"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T163057"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162840"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162811"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162308"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162208"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162126"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T162054"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161945"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161901"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161806"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161647"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161621"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T161406"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132642"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132604"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132504"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132355"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132255"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T132151"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T131954"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250729T130011"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T205833"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T200827"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T190107"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T161803"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T135451"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T134507"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T124821"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T123934"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T114934"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T004707"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250728T004230"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250728T002915"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T234842"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250727T234838"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T234812"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T234349"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250727T234332"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T233028"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250727T230739"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T215525"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250727T151510"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T135921"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250727T135335"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250727T134606"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250726T145016"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250726T110938"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250725T225204"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250725T224740"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250725T190011"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250725T190003"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250725T185733"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250725T185716"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250725T184017"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250725T173445"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250725T093843"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250724T223020"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250724T195604"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250724T175342"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250724T150708"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250724T033535"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250723T213012"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250723T133247"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250722T220653"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250722T212201"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250722T192727"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250722T183031"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250722T183022"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250722T182528"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250722T181212"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250722T160114"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250721T000245"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250720T232556"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250720T230046"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250720T202836"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250719T233413"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250719T231055"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250719T230055"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250719T210736"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250719T191916"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250719T190348"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250719T174053"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250719T115738"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250718T133832"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250718T103053"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250717T205149"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250717T204558"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20250717T172403"
+        },
+        {
+            "Activity": "MSI App Player",
+            "Source": "MSI App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20250717T164157"
+        }
+    ]
+}
